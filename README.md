@@ -1,1 +1,1 @@
-# truevic is next coding language
+# truevic is next coding language by korean
